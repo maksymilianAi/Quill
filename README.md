@@ -10,23 +10,40 @@
 
 ---
 
-## What It Does
+## Quick start
 
-Quill is trained on real copy from your product designs and applies consistent UX writing principles — verb-first descriptions, precise domain terminology, and the tone your users already know. It works entirely within Claude Projects and requires no backend infrastructure.
+Paste the command below into Claude, Gemini, ChatGPT, or any AI assistant — then press Enter.
 
-## Setup
+```
+Set up Quill: fetch and read the following files from https://github.com/maksymilianAi/Quill —
+system_prompt.md (your instructions), knowledge/existing_copy.md (style examples from real designs),
+and knowledge/style_notes.md (tone and style rules). Follow the instructions in system_prompt.md.
+```
 
-Download [Claude](https://claude.ai) desktop app and create a new Project named **Quill**. Paste the contents of `system_prompt.md` into the Project Instructions field. Upload both files from the `knowledge/` folder as Project knowledge. Connect your Figma account through Claude's connector settings if not already done.
+---
 
-## How It Works
+<details>
+<summary><strong>How it works</strong></summary>
+
+<br>
 
 Quill integrates two inputs: your Figma designs via the Figma MCP connector, and a curated knowledge base of existing product copy and style rules. When given a screen, frame, or element, it reads surrounding context before writing — matching terminology, sentence structure, and tone to what already exists in the product.
 
-## Updating the Knowledge Base
+</details>
+
+<details>
+<summary><strong>Updating the knowledge base</strong></summary>
+
+<br>
 
 Add new copy examples to `knowledge/existing_copy.md` as the product evolves. Use `knowledge/style_notes.md` to record explicit style decisions and feedback from your team. Commit and share updated files via this repository so the whole team stays in sync.
 
-## Project Structure
+</details>
+
+<details>
+<summary><strong>Project structure</strong></summary>
+
+<br>
 
 ```
 Quill/
@@ -35,3 +52,5 @@ Quill/
     ├── existing_copy.md      — copy examples extracted from Figma designs
     └── style_notes.md        — style decisions and tone of voice rules
 ```
+
+</details>
