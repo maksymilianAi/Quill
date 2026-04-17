@@ -58,6 +58,37 @@ Source: Figma designs. Use these as style and tone reference.
 
 ---
 
+## Email copy
+
+### Contribution processed notification
+- **Headline** — "Your Contribution Has Processed"
+- **Body** — "Your contribution for $[amount] has processed on [date]. The funds will be available to spend or invest within [hold days] days. You can view additional details about your HSA by logging into your account."
+- **Button** — "Log In"
+- **Sign-off** — "The {partner name} Team"
+
+### Account expiry reminder
+- **Headline** — "Your Account Expires Soon"
+- **Body** — "Your account deadline is coming up soon! Make sure you spend your money, don't lose it."
+- **Bullet items** — "Your <accountname> has <$>."
+- **HSA exception note** — "Your HSA money never expires. There are no deadlines to use your money."
+- **Button** — "Log In"
+- **Footer note** — "* Balance as of <current date MM/DD/YYYY>"
+- **Sign-off** — "The {partner name} Team"
+
+---
+
+## Email copy patterns
+
+- Headlines: Book Style Capitalization, 4–6 words, subject-verb structure: "Your Contribution Has Processed"
+- Body: conversational but direct, 2–3 sentences max per paragraph
+- One primary CTA button per email, Book Style: "Log In", "View Details"
+- Sign-off always: "The {partner name} Team"
+- Footer notes use asterisk for disclaimers: "* Balance as of..."
+- Bullet items end with a period
+- HSA-specific exceptions always called out separately from other account types
+
+---
+
 ## Patterns to follow
 
 - Verb-first: View / Track / Manage / Reconcile / Submit / Review
