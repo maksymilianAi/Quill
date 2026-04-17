@@ -15,9 +15,11 @@
 Paste the command below into Claude, Gemini, ChatGPT, or any AI assistant — then press Enter.
 
 ```
-Set up Quill: fetch and read the following files from https://github.com/maksymilianAi/Quill —
-system_prompt.md (your instructions), knowledge/existing_copy.md (style examples from real designs),
-and knowledge/style_notes.md (tone and style rules). Follow the instructions in system_prompt.md.
+Set up Quill: fetch and read these three files —
+https://raw.githubusercontent.com/maksymilianAi/Quill/main/system_prompt.md (your instructions),
+https://raw.githubusercontent.com/maksymilianAi/Quill/main/knowledge/existing_copy.md (style examples from real designs),
+https://raw.githubusercontent.com/maksymilianAi/Quill/main/knowledge/style_notes.md (tone and style rules).
+Follow the instructions in system_prompt.md.
 ```
 
 ---
