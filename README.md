@@ -12,11 +12,7 @@
 
 ## Quick start
 
-Quill works with any AI assistant. Claude is recommended — it can read Figma links directly, so you don't need to copy-paste text or take screenshots.
-
-**If you're using Claude:** open the **Claude Code** tab first. This enables Figma access — you'll be able to share a Figma link and Quill will read the design context automatically.
-
-Paste the command below into your AI assistant of choice — then press Enter.
+Paste the command below into your AI assistant and press Enter.
 
 ```
 Set up Quill: fetch and read these three files —
@@ -26,6 +22,8 @@ https://raw.githubusercontent.com/maksymilianAi/Quill/main/knowledge/style_notes
 Follow the instructions in system_prompt.md.
 ```
 
+> **Recommended: Claude + Claude Code tab.** Claude can read Figma links directly — no need to copy text or take screenshots. Open the Claude Code tab before you start, then share a Figma link alongside your request.
+
 ---
 
 <details>
@@ -33,7 +31,7 @@ Follow the instructions in system_prompt.md.
 
 <br>
 
-Quill integrates two inputs: your Figma designs via the Figma MCP connector, and a curated knowledge base of existing product copy and style rules. When given a screen, frame, or element, it reads surrounding context before writing — matching terminology, sentence structure, and tone to what already exists in the product.
+Quill draws on two sources: your Figma designs via the Figma MCP connector, and a curated knowledge base of existing product copy and style rules. When given a screen, frame, or element, it reads the surrounding context before writing — matching terminology, sentence structure, and tone to what already exists in the product.
 
 </details>
 
