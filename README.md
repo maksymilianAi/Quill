@@ -4,7 +4,7 @@
 
 # Quill
 
-**AI copywriting assistant for fintech product design — runs entirely inside Claude Projects.**
+**AI copywriting assistant for fintech product design — works with Claude, Gemini, ChatGPT, or any AI assistant.**
 
 </div>
 
