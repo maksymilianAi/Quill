@@ -7,15 +7,35 @@
 
 ---
 
+## Capitalization rules (official, from design system)
+
+### Book Style Capitalization
+Capitalize all words **except** prepositions shorter than 5 letters (with, from, at, etc.), conjunctions (and, or, but), and articles (a, an, the). Always capitalize the first and last word regardless.
+
+**Use for:**
+- Titles (list view columns, dialogs, and so on)
+- Buttons (functions)
+
+### Sentence Style Capitalization
+Capitalize only the first letter of the first word and proper names.
+
+**Use for:**
+- Labels
+- Tooltips
+- Descriptive text
+- Selectable items (drop-downs)
+- Pop-up titles
+
+---
+
 ## Copy patterns by UI element type
 
 ### Page & modal titles
-- Title Case noun phrases: "Request Excess Contribution Withdraw", "Let's Find Your Receipt"
-- No verbs except in conversational flows (onboarding, wizards): "Let's Find Your Receipt"
+- **Sentence case** (pop-up titles use sentence style per design system)
 - Descriptive and specific — avoid generic labels like "Settings" or "Details"
 
 ### Field labels
-- Title Case, no punctuation: "Excess amount", "Refund method", "Spend limits"
+- **Sentence case**: "Excess amount", "Refund method", "Spend limits"
 - Short — 1–3 words preferred
 
 ### Field support text (below a label)
