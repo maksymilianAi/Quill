@@ -20,6 +20,44 @@ Source: Figma designs. Use these as style and tone reference.
 
 ---
 
+## Modal copy — Request Excess Contribution Withdraw
+
+- **Modal title** — "Request Excess Contribution Withdraw"
+- **Modal description** — "Excess contributions are amounts you put into your HSA beyond the IRS annual limit, which must be corrected to avoid taxes and penalties."
+- **Excess amount** (field label) — "Amount entered will be debited from your HSA."
+- **Excess earnings** (field label) — "Excess earnings include any additional earnings due to the excess contributions, including but not limited to interest or investment earnings. Please consult with your tax advisor for additional assistance."
+- **Warning section title** — "Excess contribution correction withdrawal"
+- **Warning body** — "By signing this form, I understand that [UMB] will report this distribution to the IRS as an excess contribution. Funds contributed in excess of your contribution limit are subject to penalty and tax unless the excess and earnings are withdrawn by you prior to your tax filing due date, including any extensions, for filing your Federal Income Tax Return."
+- **Checkbox** — "I understand the above rules"
+
+---
+
+## Reimbursement flow — Let's Find Your Receipt
+
+- **Page title** — "Let's Find Your Receipt"
+- **Body** — "Let's start by adding your documentation. This could be a receipt, bill, or an EOB. We'll be able to pull some details from the document automatically."
+- **Contextual link** — "Have a bill you haven't paid yet? Send your payment directly to the provider here – Pay a Bill."
+- **Upload area** — "Drag or browse a picture of your receipt"
+- **Tooltip (file type error)** — "Please convert the image into an approved file type or ask your provider for an updated receipt as a PDF."
+- **Tooltip trigger** — "Receipt not in one of the allowed file types?"
+- **QR section title** — "Scan QR Code to Upload File"
+- **QR section description** — "Effortlessly upload files by simply scanning the QR code with your device's camera."
+
+---
+
+## Plan settings — Spend limits (Healthcare FSA)
+
+- **Setting label** — "Ignore point in time election changes"
+- **Setting description** — "Most recent election amount will be made available for all dates of coverage"
+- **Setting label** — "Spend limits"
+- **Tooltip: Total plan limit** — "Limits the total amount that can be spent across the plan within the designated spend period, regardless of individual participants."
+- **Tooltip: Person spend limit** — "Limits the amount that can be spent per person within the plan during the designated spend period."
+- **Options** — "Total plan limit", "IRS limit", "Person spend limit", "Spend category spend limit"
+- **Setting label** — "Spend period"
+- **Options** — "Unlimited", "Monthly", "Plan year"
+
+---
+
 ## Patterns to follow
 
 - Verb-first: View / Track / Manage / Reconcile / Submit / Review
