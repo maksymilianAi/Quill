@@ -1,6 +1,14 @@
-# 🪶 Quill
+<div align="center">
 
-**Quill** is an AI copywriting assistant for fintech product design. It reads Figma context and suggests UX copy that matches your product's existing style and tone. Always provides 3 options with a recommended pick and brief rationale.
+<img src="assets/icon.svg" width="120" alt="Quill" />
+
+# Quill
+
+**AI copywriting assistant for fintech product design — runs entirely inside Claude Projects.**
+
+</div>
+
+---
 
 ## What It Does
 
