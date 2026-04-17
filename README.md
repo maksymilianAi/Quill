@@ -15,10 +15,9 @@
 Paste the command below into your AI assistant and press Enter.
 
 ```
-Set up Quill: fetch and read these three files —
+Set up Quill: fetch and read these two files —
 https://raw.githubusercontent.com/maksymilianAi/Quill/main/system_prompt.md (your instructions),
-https://raw.githubusercontent.com/maksymilianAi/Quill/main/knowledge/existing_copy.md (style examples from real designs),
-https://raw.githubusercontent.com/maksymilianAi/Quill/main/knowledge/style_notes.md (tone and style rules).
+https://raw.githubusercontent.com/maksymilianAi/Quill/main/knowledge/existing_copy.md (style examples from real designs).
 Follow the instructions in system_prompt.md.
 ```
 
