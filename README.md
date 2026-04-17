@@ -39,7 +39,7 @@ Quill draws on two sources: your Figma designs via the Figma MCP connector, and 
 
 <br>
 
-Add new copy examples to `knowledge/existing_copy.md` as the product evolves. Use `knowledge/style_notes.md` to record explicit style decisions and feedback from your team. Commit and share updated files via this repository so the whole team stays in sync.
+Add new copy examples to `knowledge/existing_copy.md` as the product evolves. Mark deprecated copy as an anti-pattern so Quill knows what not to imitate. Commit and share updated files via this repository so the whole team stays in sync.
 
 </details>
 
@@ -52,8 +52,7 @@ Add new copy examples to `knowledge/existing_copy.md` as the product evolves. Us
 Quill/
 ├── system_prompt.md          — paste into Claude Project Instructions
 └── knowledge/
-    ├── existing_copy.md      — copy examples extracted from Figma designs
-    └── style_notes.md        — style decisions and tone of voice rules
+    └── existing_copy.md      — copy examples, anti-patterns, and canonical vocabulary
 ```
 
 </details>
