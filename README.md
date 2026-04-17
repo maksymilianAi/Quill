@@ -25,3 +25,13 @@ Quill integrates two inputs: your Figma designs via the Figma MCP connector, and
 ## Updating the Knowledge Base
 
 Add new copy examples to `knowledge/existing_copy.md` as the product evolves. Use `knowledge/style_notes.md` to record explicit style decisions and feedback from your team. Commit and share updated files via this repository so the whole team stays in sync.
+
+## Project Structure
+
+```
+Quill/
+├── system_prompt.md          — paste into Claude Project Instructions
+└── knowledge/
+    ├── existing_copy.md      — copy examples extracted from Figma designs
+    └── style_notes.md        — style decisions and tone of voice rules
+```
