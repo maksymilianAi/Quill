@@ -12,7 +12,11 @@
 
 ## Quick start
 
-Paste the command below into Claude, Gemini, ChatGPT, or any AI assistant — then press Enter.
+Quill works with any AI assistant. Claude is recommended — it can read Figma links directly, so you don't need to copy-paste text or take screenshots.
+
+**If you're using Claude:** open the **Claude Code** tab first. This enables Figma access — you'll be able to share a Figma link and Quill will read the design context automatically.
+
+Paste the command below into your AI assistant of choice — then press Enter.
 
 ```
 Set up Quill: fetch and read these three files —
